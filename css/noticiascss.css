@@ -1,0 +1,48 @@
+   head {
+      Background-color: White
+    }
+    div.transbox {
+      height: 140px;
+      background-image: url(../img/download.jfif);
+      margin: 10px;
+      border: 1px solid black;
+      opacity: 0.6;
+    }
+    h1 {
+      color: solid rgb(0, 0, 0)
+    }
+    h2 {
+      color: solid rgb(0, 0, 0)
+    }
+
+    h6 {
+      color: black
+    }
+
+    h5 {
+      color: black
+    }
+
+    #group {
+       text-align: left;
+       text-align: justify;
+    }
+    .picright {
+      float: right;
+      width: 300px;
+      border: 1px solid black;
+      padding: 10px;
+    }
+    .forms {
+      display: block;
+    }
+    .forms > form {
+      display: inline-block;
+      text-align: center;
+    }
+   .news2 {
+    text-align: left;
+   }
+   .news {
+    text-align: center;
+   }
